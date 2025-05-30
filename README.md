@@ -1,11 +1,11 @@
 🚀 Futuristic To-Do List – Gamified Productivity App
-A visually stunning, gamified to-do list application built with React. Designed to make productivity feel addictive, rewarding, and fun through XP systems, achievements, voice input, and rich animations. This isn’t just a task manager — it’s a gameified daily companion.
+A visually stunning, gamified to-do list application built with React. Designed to make productivity feel addictive, rewarding, and fun through XP systems, achievements,  and rich animations. This isn’t just a task manager — it’s a gameified daily companion.
 
 
 
 ✨ Features
 🔮 Core Productivity
-🎤 Voice Task Creation – Use Web Speech API for hands-free task input, with visual feedback and XP rewards.
+
 
 🗂 Smart Task Management – Categorize tasks (Work, Personal, Health), assign priority levels, due dates, and detailed descriptions.
 
@@ -49,12 +49,4 @@ React + Hooks
 
 Tailwind CSS / Styled Components
 
-Framer Motion
 
-Web Speech API
-
-localStorage
-
-Vite / CRA
-
-Optional: React Toastify
